@@ -5,4 +5,5 @@ In recent years, advancements in neural network designs and the availability of 
 
 ## Demo
 [![AMT Demo](http://img.youtube.com/vi/h_aptdRgHmA/0.jpg)](https://youtu.be/h_aptdRgHmA)
+
 AMT Demo (delay=320ms). The piano rolls were post-processed to compensate the delay. The original (realtime) video is shown in the right conner.
